@@ -14,8 +14,3 @@ This project involves building a neural network that can recognize hand gestures
 - OpenCV
 - Numpy
 - Matplotlib
-
-To install the required libraries, run the following command:
-
-```bash
-pip install -r requirements.txt
